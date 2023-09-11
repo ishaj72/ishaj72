@@ -1,6 +1,5 @@
 <div align="center">
-  <h2>Hi there! 😄</h2>
-  <h2>I am Isha-Jain 👋</h2>
+  <h2>Hi there!😄 I am Isha-Jain👋</h2>
 </div>
 
 ## 💫About Me:
