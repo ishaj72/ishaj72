@@ -14,8 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaj72&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-### I love to read books 📚❤
-### 1st rule of programming- Do not touch if it works
----
-[![](https://visitcount.itsvg.in/api?id=ishaj72&icon=0&color=0)](https://visitcount.itsvg.in)
+#### I love to read books 📚❤
+#### 1st rule of programming- Do not touch if it works
+
 
