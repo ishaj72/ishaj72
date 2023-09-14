@@ -3,7 +3,7 @@
 </div>
 
 ## 💫About Me:
-<br>🎓I have recently completed my B.Tech . <br/>💻I am currently diving into the world of web development . <br/>📱As a Flutter developer, I'm passionate about mobile app development  and <b/r>🤖Have a keen interest in machine learning . <br/>🚀I'm continuously honing my coding skills. <br/>☁️Additionally, I'm excited to start learning AWS <br><br><br><br><br>
+<br>🎓I have recently completed my B.Tech . <br/>💻I am currently diving into the world of web development . <br/>📱As a Flutter developer, I'm passionate about mobile app development  and <br/>🤖Have a keen interest in machine learning . <br/>🚀I'm continuously honing my coding skills. <br/>☁️Additionally, I'm excited to start learning AWS <br><br><br><br><br>
 
 
 ### 🌐 Socials:
