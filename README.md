@@ -3,7 +3,7 @@ Hi there! I am Isha Jain, a passionate software developer with a keen interest i
 
 
 ## 🌐 Socials:
-[LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/isha-jain-66910a206/) 
+[LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/isha-jain-66910a206/) <br/>
 [Hashnode](https://whizzx.hashnode.dev/)
 
 # 💻 Tech Stack:
