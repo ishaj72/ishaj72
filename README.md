@@ -1,5 +1,11 @@
-# 💫 About Me:
-Hi there! I am Isha Jain, a passionate software developer with a keen interest in building efficient and scalable applications. I work on both frontend and backend web development and have a growing interest in machine learning.
+# Isha Jain - Associate Software Developer at Rakuten Symphony<br/>
+
+👋 Hi, I'm Isha Jain, currently working as an Associate Software Developer at [Rakuten Symphony] (https://www.linkedin.com/company/rakuten/posts/?feedView=all) <br/>
+
+💡 **What I'm passionate about:**<br/>
+- Building scalable and efficient .NET full-stack applications.<br/>
+- Exploring new frameworks and technologies, Machine Learning.<br/>
+- Constantly improving my skills in Java and Spring Boot.<br/>
 
 
 ## 🌐 Socials:
